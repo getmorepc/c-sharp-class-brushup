@@ -43,6 +43,8 @@
             this.txtPhoneNumber = new System.Windows.Forms.TextBox();
             this.txtTwitterAccount = new System.Windows.Forms.TextBox();
             this.btnPushToTest = new System.Windows.Forms.Button();
+            this.btnTestTeacher = new System.Windows.Forms.Button();
+            this.btnTestStudent = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -167,11 +169,33 @@
             this.btnPushToTest.UseVisualStyleBackColor = true;
             this.btnPushToTest.Click += new System.EventHandler(this.btnPushToTest_Click);
             // 
+            // btnTestTeacher
+            // 
+            this.btnTestTeacher.Location = new System.Drawing.Point(72, 297);
+            this.btnTestTeacher.Name = "btnTestTeacher";
+            this.btnTestTeacher.Size = new System.Drawing.Size(112, 23);
+            this.btnTestTeacher.TabIndex = 15;
+            this.btnTestTeacher.Text = "test Teacher";
+            this.btnTestTeacher.UseVisualStyleBackColor = true;
+            this.btnTestTeacher.Click += new System.EventHandler(this.btnTestTeacher_Click);
+            // 
+            // btnTestStudent
+            // 
+            this.btnTestStudent.Location = new System.Drawing.Point(72, 326);
+            this.btnTestStudent.Name = "btnTestStudent";
+            this.btnTestStudent.Size = new System.Drawing.Size(112, 23);
+            this.btnTestStudent.TabIndex = 16;
+            this.btnTestStudent.Text = "test Student";
+            this.btnTestStudent.UseVisualStyleBackColor = true;
+            this.btnTestStudent.Click += new System.EventHandler(this.btnTestStudent_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(256, 317);
+            this.ClientSize = new System.Drawing.Size(256, 372);
+            this.Controls.Add(this.btnTestStudent);
+            this.Controls.Add(this.btnTestTeacher);
             this.Controls.Add(this.btnPushToTest);
             this.Controls.Add(this.txtTwitterAccount);
             this.Controls.Add(this.txtPhoneNumber);
@@ -211,6 +235,8 @@
         private System.Windows.Forms.TextBox txtPhoneNumber;
         private System.Windows.Forms.TextBox txtTwitterAccount;
         private System.Windows.Forms.Button btnPushToTest;
+        private System.Windows.Forms.Button btnTestTeacher;
+        private System.Windows.Forms.Button btnTestStudent;
     }
 }
 
