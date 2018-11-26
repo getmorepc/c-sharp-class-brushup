@@ -1,0 +1,8 @@
+C:\Users\danie\Documents\GitHub\c-sharp-class-brushup\School\SchoolLibrary\bin\Debug\netstandard1.4\SchoolLibrary.deps.json
+C:\Users\danie\Documents\GitHub\c-sharp-class-brushup\School\SchoolLibrary\bin\Debug\netstandard1.4\SchoolLibrary.dll
+C:\Users\danie\Documents\GitHub\c-sharp-class-brushup\School\SchoolLibrary\bin\Debug\netstandard1.4\SchoolLibrary.pdb
+C:\Users\danie\Documents\GitHub\c-sharp-class-brushup\School\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.csprojAssemblyReference.cache
+C:\Users\danie\Documents\GitHub\c-sharp-class-brushup\School\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\c-sharp-class-brushup\School\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\c-sharp-class-brushup\School\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.dll
+C:\Users\danie\Documents\GitHub\c-sharp-class-brushup\School\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.pdb
